@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Finder-app",
+    "slug": "finder-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Finder Android Mobile App created with React Native Framework",
+    "android": {
+      "package": "com.adamweber490.finderapp",
+      "config": {
+        "googleMaps" : {
+          "apiKey" : "AIzaSyATk_f8x5l0X0nnd_WKznVZo_dJA0F5Ihk"
+        }
+      }
+    }
+  },
+  "name": "research-app"
+}
