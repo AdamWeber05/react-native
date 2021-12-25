@@ -18,6 +18,10 @@ To run the app locally, run the command - `expo start`
 
 Through expo the app can be run on a web browser by typing `w` or on andriod with an installed emulator by typing `a`
 
+## Project Screen Shots
+
+![Alt text](/assets/images/login.PNG?raw=true "Login Screen")
+
 # Authors
 
 Adam Weber - ajweber@email.sc.edu
