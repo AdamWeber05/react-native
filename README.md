@@ -21,6 +21,8 @@ Through expo the app can be run on a web browser by typing `w` or on andriod wit
 ## Project Screen Shots
 
 ![Login Screen](/assets/images/login.PNG?raw=true "Login Screen")
+![Edit Account Screen](/assets/images/edit.PNG?raw=true "Settings Screen")
+![Chat Screen](/assets/images/chat.PNG?raw=true "Chat Screen")
 
 # Authors
 
