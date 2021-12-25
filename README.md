@@ -20,7 +20,7 @@ Through expo the app can be run on a web browser by typing `w` or on andriod wit
 
 ## Project Screen Shots
 
-![Alt text](/assets/images/login.PNG?raw=true "Login Screen")
+![Login Screen](/assets/images/login.PNG?raw=true "Login Screen")
 
 # Authors
 
